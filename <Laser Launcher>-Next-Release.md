@@ -1,0 +1,7 @@
+-add repeat button
+-add levels
+-add obstacles
+-consequences for rocks reaching ground
+-rocks don't fall into machine
+-faster laser
+-fix score/make it more substantial
